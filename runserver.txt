@@ -1,0 +1,7 @@
+@echo off
+
+py manage.py runserver
+
+npm start
+
+echo Node.js and Python servers are running.
